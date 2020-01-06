@@ -54,8 +54,8 @@ For a more Advanced and practical Approach, an Android application was created u
 
 1. Supports Multiple and most common spreadsheet/excel formats.
 2. Searches For '#:' Instead of '$' in a row/line. and if multiple occurences are found, then the last occurence is selected.
-3. Exporting,Editig,Deleting..
-4. Paarsing Large Datasheets(Dependes on Processor)
+3. Exporting,Editing,Deleting..
+4. Parsing Large Datasheets(Dependes on Processor)
 
 https://play.google.com/store/apps/details?id=com.noadnetworks.dlm
 
