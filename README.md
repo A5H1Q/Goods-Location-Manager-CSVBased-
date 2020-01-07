@@ -2,6 +2,7 @@
 A Non-Profit Simple Software To Manage Location of Goods By Search, Insert, Modify and Delete data stored in a *.csv File
 
 (portable standalone .exe file | Windows-10)
+written in c & c++
 
 Theme: Asteroid
 
