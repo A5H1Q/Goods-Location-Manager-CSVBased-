@@ -58,7 +58,7 @@ For a more Advanced and practical Approach, an Android application was created u
 3. Exporting,Editing,Deleting..
 4. Parsing Large Datasheets(Depends on Processor)
 
-https://play.google.com/store/apps/details?id=com.csslovv.legacy
+
 
 ## License:-
 
