@@ -1,4 +1,3 @@
-#### Deprecated. (Project no longer maintained)
 
 # Goods-Location-Manager-CSVBased-
 A Non-Profit Simple Software To Manage Location of Goods By Search, Insert, Modify and Delete data stored in a *.csv File
