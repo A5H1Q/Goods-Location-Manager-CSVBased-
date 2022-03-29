@@ -1,9 +1,9 @@
 
-# Goods-Location-Manager-CSVBased-
-A Non-Profit Simple Software To Manage Location of Goods By Search, Insert, Modify and Delete data stored in a *.csv File
+# CSV-Based Goods Location Manager
+A simple C++ utility to track location of goods and perform a variety of operations including search, insertion, updation & deletion of data stored in a *.csv file
 
-(portable standalone .exe file | Windows-10)
-written in c & c++
+(portable standalone .exe file | Windows)
+written in c++ (Imgui)
 
 Theme: Asteroid
 
@@ -19,47 +19,26 @@ Theme: SpringHeart
 
 ### Instructions For usage :-
 
-This software supports the usage of *.csv* files as input and Performs operations such as Search, Insertion, Updation and Deletion on the supplied *.csv* file.
+This software supports the usage of *.csv* files as input and performs operations such as search, insertion, updation and deletion on the supplied *.csv* file.
 
-Note:- Target File Must be Renamed As *'input.csv'* for the software to Recognise the file.
-If No File is Available Use 'Insert Menu' To create A fresh *'input.csv'* file.
+Note:- Target file must be renamed as *'input.csv'* for the software to recognise the file.
+If no file is available use Insert menu to create a new *'input.csv'* file.
 
 ## Working :-
 
 ![working](snap2.png)
 
 
-This Simple Utility Recognises the shelf No./Rack/Location of the Item by Reading the text followed by *$* symbol.
-If No *$* is present, it indicates that No shelf/Location is Assigned to that Item.
-
-The Utility is able to Modify the shelf No./Rack No. by changing The values followed by *$* symbol or
-Assigning a new location if not present.
+The utility recognises the shelf no./rack/location of the item by reading the text followed by *$* symbol.
+If no *$* is present, it indicates that no shelf/location is assigned to that item.
 
 ### Features:-
 
-1. Searching Items By Shelf No./Rack No./Location.
-2. Viewing All Items that have location/Shelf Assigned to it (by using *$* As keyword).
-3. Inserting New Item.
-4. Updating Item Location/Shelf No.
-5. Deleting Item from *input.csv* file permanently.
-
-## Limitations :-
-
-1. When Multiple *$* Symbols are present. First Occurence is selected.
-2. Supports only *.csv* file.
-
-(workaround: see solution below)
-
-## Solution :-
-
-For a more Advanced and practical Approach, an Android application was created using same principles, but uses a much better algorithm.
-
-1. Supports Multiple and most common spreadsheet/excel formats.
-2. Searches For '#:' Instead of '$' in a row/line. and if multiple occurences are found, then the last occurence is selected.
-3. Exporting,Editing,Deleting..
-4. Parsing Large Datasheets(Depends on Processor)
-
-
+1. Searching items by shelf No./rack No./location.
+2. Viewing all items that have location/Shelf assigned to it (by using *$* As keyword).
+3. Inserting New item.
+4. Updating item's location/shelf No.
+5. Deleting item from *input.csv* file permanently.
 
 ## License:-
 
